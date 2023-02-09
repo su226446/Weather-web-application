@@ -33,14 +33,6 @@ client.py is used to connect these two microservices.
 It takes a zipcode as input and returns the weather for that zipcode.
 
 
-## Output
-
-### build images and run containers
-
-
-
-### run client.py
-
 
 
 
